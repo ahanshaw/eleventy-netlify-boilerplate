@@ -6,4 +6,6 @@ summary: This is a test post.
 tags:
   - post
 ---
+![](/static/img/logo.png)
+
 This is a test post.
