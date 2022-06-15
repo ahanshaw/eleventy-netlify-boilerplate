@@ -6,6 +6,6 @@ summary: This is a test post.
 tags:
   - post
 ---
-![](/static/img/logo.png)
+![](/static/img/berwyn_campaign_logo.jpeg)
 
 This is a test post.
