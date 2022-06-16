@@ -6,4 +6,6 @@ alt: carry card created for Ptolemy’s Geography and Renaissance Mapmakers exhi
 tags:
   - post
 ---
+## Ptolemy Carry Card
+
 This carry card was created for the Newberry Library exhibit *Ptolemy’s Geography and Renaissance Mapmakers*, part of Chicago’s Festival of Maps.
