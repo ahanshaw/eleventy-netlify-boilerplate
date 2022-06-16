@@ -6,4 +6,6 @@ alt: building maps for the Hyde Park Art Center
 tags:
   - post
 ---
+## Hyde Park Art Center Guide
+
 This double-gatefold map and art education activity was designed in conjunction with *Takeover*, the opening exhibition at the new Hyde Park Art Center.
