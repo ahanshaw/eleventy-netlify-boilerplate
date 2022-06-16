@@ -6,4 +6,6 @@ alt: email newsletter design for Gibson House Press
 tags:
   - post
 ---
+## Gibson House Press Newsletter
+
 This MailChimp email campaign template keeps independent book publisher [Gibson House Press](http://gibsonhousepress.com/) readers up-to-date on news, events, and book-signings.
