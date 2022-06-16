@@ -6,4 +6,6 @@ alt: ad created for an University of Illinois at Chicago open house
 tags:
   - post
 ---
+Muse *Reader* Ad
+
 A half-page *Chicago Reader* ad was designed to promote the new Master of Arts in Museum and Exhibition Studies program at the University of Illinois at Chicago.
