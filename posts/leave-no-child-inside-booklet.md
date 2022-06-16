@@ -6,4 +6,6 @@ alt: Children's Outdoor Bill of Rights booklet
 tags:
   - post
 ---
+## Leave No Child Inside Booklet
+
 This booklet was designed to help educate parents about the Leave No Child Inside Initiative, which promotes the benefits to children of outdoor play in nature.
