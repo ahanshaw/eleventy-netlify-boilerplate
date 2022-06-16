@@ -6,4 +6,6 @@ alt: cover for American Library Association’s Cultural Communities Fund brochu
 tags:
   - post
 ---
+## Community Cultural Fund Brochure
+
 A tri-fold brochure was designed to encourage support for the American Library Association’s Cultural Communities Fund, an endowment that provides funding for cultural and civic programming in libraries of all types.
