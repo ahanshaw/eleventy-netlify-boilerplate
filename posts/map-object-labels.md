@@ -6,4 +6,6 @@ alt: wall label for a sketch map created by George Washington
 tags:
   - post
 ---
+## Map Object Labels
+
 More than fifty wall and case labels were designed for the Newberry Library exhibit *Mapping Manifest Destiny: Chicago and the American West*, part of Chicago’s Festival of Maps.
