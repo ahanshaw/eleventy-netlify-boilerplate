@@ -6,4 +6,6 @@ alt: wedding invitation for Jennifer and Justin
 tags:
   - post
 ---
+## CD Case Wedding Invite
+
 A letterpress wedding invitation doubles as a CD case, but carries wedding details and RSVP card inside instead of your favorite tunes.
