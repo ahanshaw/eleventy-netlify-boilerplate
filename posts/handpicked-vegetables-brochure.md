@@ -6,4 +6,6 @@ alt: cover for PanAmerican Seed’s HandPicked collection brochure
 tags:
   - post
 ---
+## Handpicked Vegetables Brochure
+
 Production work for this 16-page brochure featuring PanAmerican Seed’s HandPicked collection was completed while working closely with the project’s Art Director.
