@@ -6,4 +6,6 @@ alt: recipe card for Burpee cupcake squash
 tags:
   - post
 ---
+## Burpee Recipe Cards
+
 Three recipe cards were designed to feature Burpee vegetables and to highlight recipe ideas showcasing the bounty of the garden.
