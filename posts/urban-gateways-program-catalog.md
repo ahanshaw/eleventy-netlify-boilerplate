@@ -6,4 +6,6 @@ alt: "Urban Gateways: Center for Arts Education program catalog cover"
 tags:
   - post
 ---
+## Urban Gateways Program Catalog
+
 This 52-page program catalog was designed for Urban Gateways: Center for Arts Education, a non-profit arts organization based in Chicago.
