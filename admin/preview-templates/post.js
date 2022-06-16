@@ -17,7 +17,6 @@ const Post = createClass({
 							alt="${entry.getIn(["data", "alt"], null)}"
 						/>
 					</div>
-					<h1>${entry.getIn(["data", "title"], null)}</h1>
 					${this.props.widgetFor("body")}
 				</article>
 			</main>
