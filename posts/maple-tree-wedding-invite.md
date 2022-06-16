@@ -6,4 +6,6 @@ alt: wedding invitation for Sara and Brian
 tags:
   - post
 ---
+## Maple Tree Wedding Invite
+
 Wedding invitation designed to evoke nature, growth, and simple elegance. Main card and inserts were placed inside a brown, pocket-fold envelope and tied with green Raffia.
