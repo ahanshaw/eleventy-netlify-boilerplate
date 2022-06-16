@@ -1,6 +1,6 @@
 ---
 date: 2022-06-16T01:10:21.580Z
-title: Muse *Reader* Ad
+title: Muse Reader Ad
 image: /static/img/MUSE-Reader-ad.jpg
 alt: ad created for an University of Illinois at Chicago open house
 tags:
