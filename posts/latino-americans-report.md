@@ -1,6 +1,6 @@
 ---
 date: 2022-06-16T01:15:58.927Z
-title: "*Latino Americans* Report"
+title: Latino Americans Report
 image: /static/img/la500_final_report.jpeg
 alt: "cover for the Latino Americans: 500 Years of History report"
 tags:
